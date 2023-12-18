@@ -11376,7 +11376,7 @@ span.flatpickr-weekday {
 	}
 }
 
-@media (max-width:768px) {
+@media (max-width:1000px) {
 	#navbarNav {
 		z-index: -1;
     width: 100%;
